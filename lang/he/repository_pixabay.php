@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 $string['pluginname'] = "תמונות Pixabay";
 $string['configplugin'] = "הגדרות מאגר Pixabay";
 $string['key'] = "מפתח Pixabay API";
-$string['key_description'] = 'ניתן למצוא את המפתח כאן <a href="https://pixabay.com/api/docs/">https://pixabay.com/api/docs/</a>';
+$string['key_description'] = 'ניתן למצוא את המפתח כאן <a href="https://pixabay.com/api/docs/" target="_blank">https://pixabay.com/api/docs/</a>';
 $string['search'] = "חיפוש";
 $string['safe'] = "בטוח";
 $string['unsafe'] = "לא בטוח";
